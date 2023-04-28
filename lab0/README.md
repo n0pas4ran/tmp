@@ -1,7 +1,7 @@
-Практическая работа 0
+# Практическая работа 0
 
-Выполнил Толкунов Илья БИСО-03-20
-
+## Выполнил Толкунов Илья БИСО-03-20
+```
 @startuml
 
 left to right direction 
@@ -20,7 +20,7 @@ rectangle Магазин{
 
 }
 @enduml
-
+```
 
 
 ![image](https://user-images.githubusercontent.com/87472380/235157625-382fa822-0104-4b2e-b6b2-82a621f2ec99.png)
