@@ -1,6 +1,5 @@
 Практическая работа 5
-Розанцева Елизавета БИСО-03-20
-Ссылка на гитхаб – https://github.com/rozanseva/TMP/tree/main/lab_6
+Толкунов Илья БИСО-03-20
 Код файла proxy.py
 
 class IMath:
