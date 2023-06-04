@@ -1,6 +1,5 @@
 Практическая работа 4
-Розанцева Елизавета БИСО-03-20
-Ссылка на гитхаб – https://github.com/rozanseva/TMP/tree/main/lab_4
+Толкунов Илья БИСО-03-20
 Листинг файла lab4
 
 class FlowersVisitor(object):
